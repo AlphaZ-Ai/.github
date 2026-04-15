@@ -4,7 +4,7 @@ Add a summary of your changes here.
 
 ---
 
-## ✅ Pre-Merge Checklist
+## Pre-Merge Checklist
 
 ### Code Quality
 - [ ] Code builds/runs
@@ -31,6 +31,6 @@ Add a summary of your changes here.
 > Add any future plans/checks you would like to consider here.
 
 ## Related Issue(s)
-- [x] Add related GitHub issues here, if they exist (`Closes #...` or `Refs #...`)
+- [ ] Add related GitHub issues here, if they exist (`Closes #...` or `Refs #...`)
 
 ---
